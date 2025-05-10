@@ -15,10 +15,12 @@ This platform enables users to browse live fundraising campaigns, make donations
 
 ## 👥 Team Members
 
-- [Dharani](#)
-- [N Sanjana-2300030456](#)
-- [Likhita](#)
-- 
+     SEC- 31  GRP-16
+- [2300030337](#) - DHARANI
+- [klu2300030456](#)  - SANJANA
+- [Likhitha664](#)  - LIKHITA
+
+   
 We collaborated on this project as part of our academic coursework to gain hands-on experience in full-stack web development, teamwork, and project deployment.
 
 THANKYOU!
